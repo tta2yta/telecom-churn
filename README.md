@@ -1,5 +1,5 @@
 # telecom-churn
-A python code that helps to identify customers likely to churn and develop focused intervention plans to retain as many customers as possible. It is implemented with logistic regression, random forest, and logistic regression + LASSO machine learning algorithms.
+A python code that helps to identify customers likely to churn and develop focused intervention plans to retain as many customers as possible. It is implemented with logistic regression, random forest, and logistic regression + LASSO machine learning algorithms. The datset used is Telco-Customer-Churn Data from kaggle.
 
 #challenge
 Customer churn is a critical and challenging problem affecting business and industry,
